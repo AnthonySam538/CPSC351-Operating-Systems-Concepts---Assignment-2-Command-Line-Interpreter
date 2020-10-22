@@ -1,4 +1,4 @@
-# cs351_assignment2_anthony_sam: Interactive Shell
+# CPSC351 Operating Systems Concepts - Assignment 2: Command Line Interpreter
 This shell supports the following commands:
 * dir
 * help
@@ -14,4 +14,4 @@ This shell supports the following commands:
 When the user types in a command, a thread is created to execute it.
 
 ## Known issue(s):
-The rest of the program doesn't wait for the thread to finish executing the command.
+The rest of the program doesn't wait for a thread to finish executing its command before proceeding.
