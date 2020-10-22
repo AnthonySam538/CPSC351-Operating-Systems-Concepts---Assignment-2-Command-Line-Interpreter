@@ -11,6 +11,7 @@ This shell supports the following commands:
 * ping
 * exit
 * quit
+
 When the user types in a command, a thread is created to execute it.
 
 ## Known issue(s):
