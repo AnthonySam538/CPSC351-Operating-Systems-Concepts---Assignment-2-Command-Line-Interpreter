@@ -1,5 +1,5 @@
 // cs351_assignment2_anthony_sam.cpp : This file contains the 'main' function. Program execution begins and ends there.
-// Copyright (c) Anthony Sam 9/24/2020
+// Anthony Sam 9/24/2020
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
